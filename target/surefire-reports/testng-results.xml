@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-16T12:24:43 IST" name="SauceDemo" finished-at="2023-10-16T12:24:56 IST" duration-ms="13362">
+    <groups>
+    </groups>
+    <test started-at="2023-10-16T12:24:43 IST" name="Test" finished-at="2023-10-16T12:24:56 IST" duration-ms="13362">
+      <class name="com.testscripts.TC_001Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.TC_001Login@7f6f61c8]" started-at="2023-10-16T12:24:43 IST" name="setup" finished-at="2023-10-16T12:24:46 IST" duration-ms="3244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testscripts.TC_001Login@7f6f61c8]" started-at="2023-10-16T12:24:46 IST" name="login" finished-at="2023-10-16T12:24:50 IST" duration-ms="3406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="buyingProduct()[pri:0, instance:com.testscripts.TC_001Login@7f6f61c8]" started-at="2023-10-16T12:24:50 IST" name="buyingProduct" finished-at="2023-10-16T12:24:56 IST" duration-ms="6224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testscripts.TC_001Login@7f6f61c8]" started-at="2023-10-16T12:24:56 IST" name="tearDown" finished-at="2023-10-16T12:24:56 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testscripts.TC_001Login -->
+    </test> <!-- Test -->
+  </suite> <!-- SauceDemo -->
+</testng-results>
