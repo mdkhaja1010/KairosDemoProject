@@ -1037,3 +1037,159 @@
 16:10:2023  14:28:50 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
 16:10:2023  14:28:50 [main] INFO  CreateLog:13 - Browser closed
 16:10:2023  14:28:51 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  14:45:37 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.14.45.37.html Report generating started
+16:10:2023  14:45:40 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  14:45:41 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  14:45:41 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  14:45:41 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  14:45:41 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  14:45:42 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  14:45:42 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  14:45:45 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  14:45:47 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  14:45:47 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  14:45:52 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  14:45:52 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  14:45:52 [main] INFO  CreateLog:13 - order finished
+16:10:2023  14:45:52 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  14:45:52 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  14:45:53 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  14:45:53 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  14:45:53 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  14:45:54 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  17:03:59 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.17.03.59.html Report generating started
+16:10:2023  17:04:03 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  17:04:04 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  17:04:05 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  17:04:05 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  17:04:05 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  17:04:05 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  17:04:05 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  17:04:08 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  17:04:08 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  17:04:09 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  17:04:09 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  17:04:09 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  17:04:09 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  17:04:09 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  17:04:10 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  17:04:10 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  17:04:14 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  17:04:14 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  17:04:15 [main] INFO  CreateLog:13 - order finished
+16:10:2023  17:04:15 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  17:04:15 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  17:04:15 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  17:04:15 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  17:04:16 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  17:04:16 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  17:24:26 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.17.24.26.html Report generating started
+16:10:2023  17:24:30 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  17:24:31 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  17:24:31 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  17:24:31 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  17:24:31 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  17:24:32 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  17:24:32 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  17:24:35 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  17:24:36 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  17:24:36 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  17:24:41 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  17:24:41 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  17:24:41 [main] INFO  CreateLog:13 - order finished
+16:10:2023  17:24:41 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  17:24:41 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  17:24:42 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  17:24:42 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  17:24:42 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  17:24:42 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  17:30:39 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.17.30.39.html Report generating started
+16:10:2023  17:30:43 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  17:30:44 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  17:30:44 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  17:30:45 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  17:30:45 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  17:30:45 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  17:30:45 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  17:30:48 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  17:30:48 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  17:30:48 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  17:30:49 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  17:30:49 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  17:30:49 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  17:30:49 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  17:30:50 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  17:30:50 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  17:30:54 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  17:30:54 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  17:30:55 [main] INFO  CreateLog:13 - order finished
+16:10:2023  17:30:55 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  17:30:55 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  17:30:55 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  17:30:55 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  17:30:56 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  17:30:56 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  17:31:46 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.17.31.46.html Report generating started
+16:10:2023  17:31:49 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  17:31:51 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  17:31:51 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  17:31:51 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  17:31:51 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  17:31:51 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  17:31:52 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  17:31:55 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  17:31:56 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  17:31:56 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  17:32:00 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  17:32:00 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  17:32:00 [main] INFO  CreateLog:13 - order finished
+16:10:2023  17:32:00 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  17:32:01 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  17:32:01 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  17:32:01 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  17:32:02 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  17:32:02 [main] INFO  CreateLog:13 - Report generated successfully
+16:10:2023  17:33:06 [main] INFO  CreateLog:13 - Test-Report-16.10.2023.17.33.06.html Report generating started
+16:10:2023  17:33:10 [main] INFO  CreateLog:13 - ChromeBrowser is launched
+16:10:2023  17:33:10 [main] INFO  CreateLog:13 - Sauce labs url launched
+16:10:2023  17:33:11 [main] INFO  CreateLog:13 - window is maximezed
+16:10:2023  17:33:11 [main] INFO  CreateLog:13 - user name is entered
+16:10:2023  17:33:11 [main] INFO  CreateLog:13 - password is entered
+16:10:2023  17:33:11 [main] INFO  CreateLog:13 - sign in button clicked
+16:10:2023  17:33:11 [main] INFO  CreateLog:13 - Title matched
+16:10:2023  17:33:14 [main] INFO  CreateLog:13 - buyingProduct Test case started
+16:10:2023  17:33:14 [main] INFO  CreateLog:13 - price is displayed
+16:10:2023  17:33:14 [main] INFO  CreateLog:13 - selecting new product
+16:10:2023  17:33:14 [main] INFO  CreateLog:13 - item added to cart
+16:10:2023  17:33:15 [main] INFO  CreateLog:13 - opening cart
+16:10:2023  17:33:15 [main] INFO  CreateLog:13 - cart price is displayed
+16:10:2023  17:33:15 [main] INFO  CreateLog:13 - checkout button clicked
+16:10:2023  17:33:16 [main] INFO  CreateLog:13 - first name entered
+16:10:2023  17:33:16 [main] INFO  CreateLog:13 - second name entered
+16:10:2023  17:33:20 [main] INFO  CreateLog:13 - zip code entered
+16:10:2023  17:33:20 [main] INFO  CreateLog:13 - shipping details confirmed
+16:10:2023  17:33:20 [main] INFO  CreateLog:13 - order finished
+16:10:2023  17:33:20 [main] INFO  CreateLog:13 - backbutton clicked
+16:10:2023  17:33:20 [main] INFO  CreateLog:13 - menu button opened
+16:10:2023  17:33:21 [main] INFO  CreateLog:13 - logout button clicked
+16:10:2023  17:33:21 [main] INFO  CreateLog:18 - buyingProduct Test case executed successfully
+16:10:2023  17:33:21 [main] INFO  CreateLog:13 - Browser closed
+16:10:2023  17:33:22 [main] INFO  CreateLog:13 - Report generated successfully
