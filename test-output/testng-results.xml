@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-16T10:26:18 IST" name="Default suite" finished-at="2023-10-16T10:26:34 IST" duration-ms="15344">
+  <suite started-at="2023-10-16T14:01:14 IST" name="SauceDemo" finished-at="2023-10-16T14:01:30 IST" duration-ms="16639">
     <groups>
     </groups>
-    <test started-at="2023-10-16T10:26:18 IST" name="Default test" finished-at="2023-10-16T10:26:34 IST" duration-ms="15344">
+    <test started-at="2023-10-16T14:01:14 IST" name="Test" finished-at="2023-10-16T14:01:30 IST" duration-ms="16639">
       <class name="com.testscripts.TC_001Login">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.TC_001Login@2a2c13a8]" started-at="2023-10-16T10:26:18 IST" name="setup" finished-at="2023-10-16T10:26:22 IST" duration-ms="3539" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testscripts.TC_001Login@7b8233cd]" started-at="2023-10-16T14:01:14 IST" name="setup" finished-at="2023-10-16T14:01:19 IST" duration-ms="4815" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.testscripts.TC_001Login@2a2c13a8]" started-at="2023-10-16T10:26:22 IST" name="login" finished-at="2023-10-16T10:26:26 IST" duration-ms="3558" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testscripts.TC_001Login@7b8233cd]" started-at="2023-10-16T14:01:19 IST" name="login" finished-at="2023-10-16T14:01:23 IST" duration-ms="3706" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="buyingProduct()[pri:0, instance:com.testscripts.TC_001Login@2a2c13a8]" started-at="2023-10-16T10:26:26 IST" name="buyingProduct" finished-at="2023-10-16T10:26:33 IST" duration-ms="7826" status="PASS">
+        <test-method signature="buyingProduct()[pri:0, instance:com.testscripts.TC_001Login@7b8233cd]" started-at="2023-10-16T14:01:23 IST" name="buyingProduct" finished-at="2023-10-16T14:01:30 IST" duration-ms="7188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buyingProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testscripts.TC_001Login@2a2c13a8]" started-at="2023-10-16T10:26:33 IST" name="tearDown" finished-at="2023-10-16T10:26:34 IST" duration-ms="328" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testscripts.TC_001Login@7b8233cd]" started-at="2023-10-16T14:01:30 IST" name="tearDown" finished-at="2023-10-16T14:01:30 IST" duration-ms="380" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.testscripts.TC_001Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- SauceDemo -->
 </testng-results>
